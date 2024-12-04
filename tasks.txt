@@ -1,0 +1,11 @@
+13;Propulsion system checkup;4;Sally Smith;1
+15;Data Transmission and Storage;4;Carlos Johnston;3
+13;Collect space debris;4;Carlos Johnston;0
+3;Update mission control;2;Greg Davis;3;
+28;Replace ventilation filters;2;Carlos Johnston;1
+7;Computer system diagnostic;2;Kelli Weeberly;3
+14;Replace ventilation ion filters;2;Karma Thames;1
+29;Update windows;8;Karma Thames;1
+7;Food system checkup;2;Richard Moody;2
+13;Hull debris sweep;4;David Mitchell;0
+5;Replace ventilation filters;2;Allie Mitchell;1
